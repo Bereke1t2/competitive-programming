@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
+| [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bereke1t2/competitive-programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 ## Greedy
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 <!---LeetCode Topics End-->
