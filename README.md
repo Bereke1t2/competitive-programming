@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
