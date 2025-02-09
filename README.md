@@ -25,6 +25,7 @@
 | [2048-build-array-from-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -43,6 +44,7 @@
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
@@ -62,6 +64,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2778-frequency-tracker](https://github.com/Bereke1t2/competitive-programming/tree/master/2778-frequency-tracker) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy
@@ -118,6 +121,7 @@
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
