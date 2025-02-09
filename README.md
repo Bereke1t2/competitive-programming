@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Two Pointers
