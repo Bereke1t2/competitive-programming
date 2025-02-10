@@ -16,6 +16,7 @@
 | [0665-non-decreasing-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0665-non-decreasing-array) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
+| [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -37,6 +38,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
@@ -161,14 +163,20 @@
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
