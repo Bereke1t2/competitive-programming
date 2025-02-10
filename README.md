@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
