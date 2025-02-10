@@ -46,6 +46,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
