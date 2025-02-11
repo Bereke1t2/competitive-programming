@@ -21,6 +21,7 @@
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
+| [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
@@ -105,6 +107,7 @@
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -202,6 +205,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 ## Ordered Set
