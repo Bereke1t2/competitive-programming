@@ -29,6 +29,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -185,6 +186,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Two Pointers
 |  |
