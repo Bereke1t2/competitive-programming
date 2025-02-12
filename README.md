@@ -42,6 +42,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -94,6 +95,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
 | [2778-frequency-tracker](https://github.com/Bereke1t2/competitive-programming/tree/master/2778-frequency-tracker) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -123,6 +125,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -149,6 +152,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
