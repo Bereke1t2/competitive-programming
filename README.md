@@ -18,6 +18,7 @@
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereke1t2/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0665-non-decreasing-array) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
