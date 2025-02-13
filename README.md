@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereke1t2/competitive-programming/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Bereke1t2/competitive-programming/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
@@ -124,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Bereke1t2/competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0274-h-index) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereke1t2/competitive-programming/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Bereke1t2/competitive-programming/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
