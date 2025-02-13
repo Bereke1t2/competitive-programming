@@ -23,6 +23,7 @@
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereke1t2/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Bereke1t2/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -121,6 +123,7 @@
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+| [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,6 +241,7 @@
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
