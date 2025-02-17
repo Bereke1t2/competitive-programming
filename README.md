@@ -32,6 +32,7 @@
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/Bereke1t2/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -109,6 +110,7 @@
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/Bereke1t2/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bereke1t2/competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
