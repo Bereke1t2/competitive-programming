@@ -40,6 +40,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
@@ -95,6 +96,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -123,6 +125,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -198,6 +201,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -209,6 +213,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
