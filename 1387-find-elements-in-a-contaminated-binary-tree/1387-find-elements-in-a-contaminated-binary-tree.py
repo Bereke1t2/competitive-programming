@@ -8,26 +8,22 @@ class FindElements:
     def init(self,node):
         if node.right:
             node.right.val = 2*node.val +2
+            self.store.add(node.right.val)
             self.init(node.right)
         if node.left:
             node.left.val = 2*node.val + 1
+            self.store.add(node.left.val)
             self.init(node.left)
     def __init__(self, root: Optional[TreeNode]):
+        self.store = set()
         if root:
-            root.val = 0    
+            root.val = 0
+            self.store.add(0)    
         self.root = root
-        self.init(root)
-        
-    def isThere(self,root, target):
-        if not root:
-            return False
-        if root.val==target:
-            return True
-        return self.isThere(root.left,target) or self.isThere(root.right,target)
-        
+        self.init(root)   
         
     def find(self, target: int) -> bool:
-        return self.isThere(self.root , target)
+        return target in self.store
         
 
 
