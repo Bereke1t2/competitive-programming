@@ -47,6 +47,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -105,6 +106,7 @@
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -232,6 +234,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -386,6 +389,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Line Sweep
 |  |
