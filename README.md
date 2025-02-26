@@ -360,6 +360,7 @@
 | [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Bereke1t2/competitive-programming/tree/master/1028-interval-list-intersections) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -377,6 +378,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/3447-clear-digits) |
 ## Game Theory
@@ -417,6 +419,7 @@
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
