@@ -69,6 +69,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
+| [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -254,6 +255,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2102-find-the-middle-index-in-array) |
+| [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2342-minimum-average-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/2342-minimum-average-difference) |
@@ -357,6 +359,7 @@
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
