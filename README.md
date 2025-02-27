@@ -58,6 +58,7 @@
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bereke1t2/competitive-programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -258,6 +259,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2102-find-the-middle-index-in-array) |
