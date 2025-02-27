@@ -46,6 +46,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
+| [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -248,6 +249,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
+| [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -360,6 +362,7 @@
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
