@@ -88,6 +88,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -170,6 +171,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2574-count-subarrays-with-median-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2778-frequency-tracker](https://github.com/Bereke1t2/competitive-programming/tree/master/2778-frequency-tracker) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy
@@ -397,6 +399,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Ordered Set
 |  |
