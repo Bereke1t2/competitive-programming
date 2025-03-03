@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereke1t2/competitive-programming/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Bereke1t2/competitive-programming/tree/master/0134-gas-station) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
