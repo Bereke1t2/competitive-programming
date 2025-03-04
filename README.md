@@ -32,6 +32,7 @@
 | [0665-non-decreasing-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Bereke1t2/competitive-programming/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Bereke1t2/competitive-programming/tree/master/0890-lemonade-change) |
@@ -193,6 +194,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Bereke1t2/competitive-programming/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Bereke1t2/competitive-programming/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
@@ -391,6 +393,7 @@
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Bereke1t2/competitive-programming/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
