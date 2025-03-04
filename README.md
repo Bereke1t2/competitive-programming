@@ -131,6 +131,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bereke1t2/competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/Bereke1t2/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
