@@ -189,6 +189,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2574-count-subarrays-with-median-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2778-frequency-tracker](https://github.com/Bereke1t2/competitive-programming/tree/master/2778-frequency-tracker) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -346,6 +347,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2778-frequency-tracker](https://github.com/Bereke1t2/competitive-programming/tree/master/2778-frequency-tracker) |
 ## Randomized
 |  |
@@ -472,6 +475,7 @@
 | [0969-number-of-recent-calls](https://github.com/Bereke1t2/competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -558,6 +562,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bereke1t2/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/Bereke1t2/competitive-programming/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Trie
 |  |
 | ------- |
