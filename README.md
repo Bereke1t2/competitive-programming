@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Bereke1t2/competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0523-continuous-subarray-sum) |
@@ -154,6 +155,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0525-contiguous-array) |
@@ -458,6 +460,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Bereke1t2/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -552,6 +555,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Enumeration
 |  |
