@@ -63,6 +63,7 @@
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bereke1t2/competitive-programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -134,6 +135,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bereke1t2/competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -170,6 +172,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -422,6 +425,7 @@
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Bereke1t2/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/Bereke1t2/competitive-programming/tree/master/1080-camelcase-matching) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bereke1t2/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
