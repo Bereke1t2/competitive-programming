@@ -61,6 +61,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -214,6 +215,7 @@
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bereke1t2/competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Bereke1t2/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Bereke1t2/competitive-programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -243,6 +245,7 @@
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Bereke1t2/competitive-programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
