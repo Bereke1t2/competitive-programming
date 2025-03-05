@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Bereke1t2/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Bereke1t2/competitive-programming/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -470,6 +471,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Bereke1t2/competitive-programming/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -565,6 +567,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Bereke1t2/competitive-programming/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
