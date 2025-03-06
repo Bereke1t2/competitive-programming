@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Bereke1t2/competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -212,6 +213,7 @@
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Bereke1t2/competitive-programming/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Bereke1t2/competitive-programming/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -507,6 +509,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
