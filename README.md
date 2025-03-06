@@ -381,6 +381,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
+| [0886-score-of-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/Bereke1t2/competitive-programming/tree/master/1080-camelcase-matching) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
@@ -483,6 +484,7 @@
 | [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Bereke1t2/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
