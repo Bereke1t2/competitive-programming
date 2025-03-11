@@ -399,6 +399,7 @@
 | [0071-simplify-path](https://github.com/Bereke1t2/competitive-programming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
+| [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
@@ -512,6 +513,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Bereke1t2/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bereke1t2/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
@@ -581,6 +583,7 @@
 | [0206-reverse-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
