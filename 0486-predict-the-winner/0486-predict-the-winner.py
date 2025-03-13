@@ -1,13 +1,17 @@
 class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
-        arr = [0] * (n:= len(nums))
-        
-        for i in range(n-1,-1,-1):
-            arr[i] = nums[i]
+        memo = [ [-1]*len(nums) for _ in range(len(nums))]
+        def game(left , right):
+            if left==right:
+                return nums[left]
+            if left>right:
+                return 0
+            if memo[left][right]!=-1:
+                return memo[left][right]
+
+            take_left =  nums[left] - game(left + 1 , right)
+            take_right = nums[right] - game(left , right -1)
+            memo[left][right] = max(take_left , take_right)
             
-            for j in range(i+1, n):
-                arr[j] = max(nums[i]-arr[j  ],
-                             nums[j]-arr[j-1])
-            
-        return arr[n-1] >= 0 
-        
+            return memo[left][right]
+        return game(0,len(nums)-1)>=0
