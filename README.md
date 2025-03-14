@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Bereke1t2/competitive-programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereke1t2/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
@@ -554,6 +555,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
