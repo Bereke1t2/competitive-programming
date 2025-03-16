@@ -496,6 +496,7 @@
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
@@ -596,6 +597,7 @@
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
