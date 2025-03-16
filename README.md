@@ -156,6 +156,7 @@
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/Bereke1t2/competitive-programming/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Bereke1t2/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Bereke1t2/competitive-programming/tree/master/1033-broken-calculator) |
@@ -237,6 +238,7 @@
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Bereke1t2/competitive-programming/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/Bereke1t2/competitive-programming/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Bereke1t2/competitive-programming/tree/master/0825-max-increase-to-keep-city-skyline) |
