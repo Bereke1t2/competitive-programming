@@ -619,6 +619,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -630,6 +631,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -651,6 +653,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -706,4 +709,8 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
