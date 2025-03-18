@@ -414,6 +414,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Bereke1t2/competitive-programming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/0076-minimum-window-substring) |
@@ -562,6 +563,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -579,6 +581,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
