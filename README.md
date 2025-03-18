@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Bereke1t2/competitive-programming/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereke1t2/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -525,6 +526,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 ## Stack
@@ -582,6 +584,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
