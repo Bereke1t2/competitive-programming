@@ -3,6 +3,9 @@ class Solution:
         choose = [num for num in range(1,n+1)]
         res = []
         def backtrack(i,path):
+            if len(path)==k:
+                res.append(path)
+                return
             if i==n:
                 if len(path)==k:
                     res.append(path)
