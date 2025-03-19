@@ -68,6 +68,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bereke1t2/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bereke1t2/competitive-programming/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -438,6 +439,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Bereke1t2/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -531,6 +533,7 @@
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Stack
 |  |
 | ------- |
@@ -575,6 +578,7 @@
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -590,6 +594,7 @@
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bereke1t2/competitive-programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
@@ -738,4 +743,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
