@@ -434,6 +434,7 @@
 | [0076-minimum-window-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
@@ -609,6 +610,7 @@
 | [0077-combinations](https://github.com/Bereke1t2/competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
