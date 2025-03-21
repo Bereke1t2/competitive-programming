@@ -1,13 +1,35 @@
 class Solution:
     def smallestNumber(self, pattern: str) -> str:
-        for check in ["".join(p) for p in permutations('123456789')]:
-            for i in range(len(pattern)):
-                if pattern[i]=='I':
-                    if check[i]>=check[i+1]:
-                        break
+        ans = []
+        def backtrack(j,path,seen):
+            if j==-1:
+                ans.append(''.join([str(l) for l in path])[::-1])
+                return 
+
+            for i in range(9,0,-1):
+                res = None
+                if not path:
+                    path.append(i)
+                    seen.add(i)
+                    res = backtrack(j-1 , path ,seen)
+                    path.pop()
+                    seen.discard(i)
+
                 else:
-                    if check[i] <= check[i+1]:
-                        break
-            else:
-                return check[:len(pattern)+1]
+                    num = path[-1] 
+                    if not i in seen and ((pattern[j] == "I" and i<num) or (pattern[j] == "D" and i>num)):
+                        path.append(i)
+                        seen.add(i)
+                        res = backtrack(j-1 , path ,seen)
+                        path.pop()
+                        seen.discard(i)
+                if res:
+                    return res
+            return ''
+
+        backtrack(len(pattern),[],set())
+        ans.sort()
+        return ans[0]
+            
+
 
