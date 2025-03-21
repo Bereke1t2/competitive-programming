@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Bereke1t2/competitive-programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
@@ -602,6 +603,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Bereke1t2/competitive-programming/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Bereke1t2/competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
