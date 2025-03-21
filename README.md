@@ -472,6 +472,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Bereke1t2/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Design
 |  |
@@ -549,6 +550,7 @@
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -620,6 +622,7 @@
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereke1t2/competitive-programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
