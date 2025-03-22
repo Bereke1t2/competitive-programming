@@ -684,6 +684,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -695,6 +696,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -716,6 +718,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Doubly-Linked List
 |  |
@@ -777,5 +780,6 @@
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
