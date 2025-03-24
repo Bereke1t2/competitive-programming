@@ -672,6 +672,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -688,6 +689,7 @@
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -720,6 +722,7 @@
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph
@@ -786,6 +789,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Bitmask
 |  |
 | ------- |
