@@ -129,6 +129,7 @@
 | [3351-maximize-happiness-of-selected-children](https://github.com/Bereke1t2/competitive-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Bereke1t2/competitive-programming/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Bereke1t2/competitive-programming/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
@@ -312,6 +313,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Bereke1t2/competitive-programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3430-count-days-without-meetings](https://github.com/Bereke1t2/competitive-programming/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
