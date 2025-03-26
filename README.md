@@ -147,6 +147,7 @@
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bereke1t2/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -480,6 +481,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereke1t2/competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/Bereke1t2/competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereke1t2/competitive-programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -681,6 +683,7 @@
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
 | ------- |
