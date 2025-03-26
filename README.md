@@ -269,6 +269,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Bereke1t2/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Bereke1t2/competitive-programming/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bereke1t2/competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Bereke1t2/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -400,6 +401,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -695,6 +697,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -712,6 +715,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -745,6 +749,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph
@@ -813,6 +818,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Bitmask
 |  |
 | ------- |
