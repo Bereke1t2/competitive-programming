@@ -84,6 +84,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1651-shuffle-string) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -305,6 +306,7 @@
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bereke1t2/competitive-programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Bereke1t2/competitive-programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -333,6 +335,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bereke1t2/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
