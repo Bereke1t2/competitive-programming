@@ -36,6 +36,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereke1t2/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/Bereke1t2/competitive-programming/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
@@ -308,6 +309,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereke1t2/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/Bereke1t2/competitive-programming/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
@@ -347,6 +349,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Bereke1t2/competitive-programming/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1023-time-based-key-value-store](https://github.com/Bereke1t2/competitive-programming/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
@@ -562,6 +565,7 @@
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
+| [0475-heaters](https://github.com/Bereke1t2/competitive-programming/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
