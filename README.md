@@ -32,6 +32,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereke1t2/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -263,6 +264,7 @@
 | [0134-gas-station](https://github.com/Bereke1t2/competitive-programming/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereke1t2/competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Bereke1t2/competitive-programming/tree/master/0605-can-place-flowers) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1023-time-based-key-value-store](https://github.com/Bereke1t2/competitive-programming/tree/master/1023-time-based-key-value-store) |
@@ -382,6 +385,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bereke1t2/competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0724-find-pivot-index) |
@@ -636,6 +640,7 @@
 | [0055-jump-game](https://github.com/Bereke1t2/competitive-programming/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bereke1t2/competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
