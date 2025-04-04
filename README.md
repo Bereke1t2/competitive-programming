@@ -131,6 +131,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -381,6 +382,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Bereke1t2/competitive-programming/tree/master/2294-minimum-time-to-complete-trips) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereke1t2/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bereke1t2/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Bereke1t2/competitive-programming/tree/master/2690-house-robber-iv) |
@@ -445,6 +447,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -462,6 +465,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -616,6 +620,7 @@
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -905,4 +910,12 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
