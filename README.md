@@ -233,6 +233,7 @@
 | [0645-set-mismatch](https://github.com/Bereke1t2/competitive-programming/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Bereke1t2/competitive-programming/tree/master/0940-fruit-into-baskets) |
@@ -748,6 +749,7 @@
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -769,6 +771,7 @@
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
@@ -786,6 +789,7 @@
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -805,6 +809,7 @@
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
