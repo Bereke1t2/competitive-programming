@@ -143,6 +143,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Bereke1t2/competitive-programming/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Bereke1t2/competitive-programming/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2737-row-with-maximum-ones](https://github.com/Bereke1t2/competitive-programming/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bereke1t2/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -583,6 +584,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2737-row-with-maximum-ones](https://github.com/Bereke1t2/competitive-programming/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
