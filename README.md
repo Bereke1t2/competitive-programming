@@ -57,6 +57,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Bereke1t2/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Bereke1t2/competitive-programming/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0665-non-decreasing-array) |
+| [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Bereke1t2/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -241,6 +242,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereke1t2/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereke1t2/competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/Bereke1t2/competitive-programming/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -775,6 +777,7 @@
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -797,6 +800,7 @@
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -817,6 +821,7 @@
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
