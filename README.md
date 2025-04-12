@@ -215,6 +215,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bereke1t2/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bereke1t2/competitive-programming/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Bereke1t2/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -885,6 +886,7 @@
 |  |
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2998-count-symmetric-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/2998-count-symmetric-integers) |
 ## Queue
 |  |
 | ------- |
