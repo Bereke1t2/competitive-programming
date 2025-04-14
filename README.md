@@ -762,6 +762,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/Bereke1t2/competitive-programming/tree/master/1905-design-authentication-manager) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -803,6 +804,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -831,6 +833,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -875,6 +878,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph
 |  |
