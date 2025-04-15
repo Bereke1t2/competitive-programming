@@ -133,6 +133,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Bereke1t2/competitive-programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bereke1t2/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Bereke1t2/competitive-programming/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/2342-minimum-average-difference) |
@@ -405,6 +406,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Bereke1t2/competitive-programming/tree/master/2294-minimum-time-to-complete-trips) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereke1t2/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -471,6 +473,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
@@ -489,6 +492,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
@@ -652,6 +656,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Bereke1t2/competitive-programming/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
@@ -993,10 +998,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Combinatorics
 |  |
