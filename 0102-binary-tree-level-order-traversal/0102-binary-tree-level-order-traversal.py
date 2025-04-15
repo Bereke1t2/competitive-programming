@@ -7,14 +7,18 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         d = defaultdict(list)
-        def dfs(root,l):
-            if not root:
-                return 
-            d[l].append(root.val)
-            dfs(root.left,l+1)
-            dfs(root.right,l+1)
-        dfs(root,0)
+
+        q =  deque()
+        q.append([root,0])
+        if not root:
+            return []
+        temp = []
+        while q:
+            node , level = q.popleft()
+            d[level].append(node.val)
+            if node.left:
+                q.append([node.left , level +1])
+            if node.right:
+                q.append([node.right , level +1])
         return list(d.values())
 
-            
-        
