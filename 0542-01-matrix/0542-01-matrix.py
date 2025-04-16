@@ -1,34 +1,26 @@
-from collections import deque
-
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
-        n = len(mat)  # Number of rows
-        m = len(mat[0])  # Number of columns
-        dis = [[-1] * m for _ in range(n)]  # Distance matrix
-        q = deque()  # Queue for BFS
+        rows , cols = len(mat)  ,len(mat[0])
+        ans = [[-1]*cols for _ in range(rows)]
+        directions_straight = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        def is_inbound(x, y):
+            return 0 <= x < rows and 0 <= y < cols
         
-        # Initialize the distance matrix and queue
-        for i in range(n):
-            for j in range(m):
-                if mat[i][j] == 0:
-                    q.append((i, j))
-                    dis[i][j] = 0  # Distance for '0' cells is 0
-
-        # Arrays for movement in 4 directions
-        delRow = [1, -1, 0, 0]
-        delCol = [0, 0, 1, -1]
-
-        # BFS traversal
+        q = deque()
+        for i in range(rows):
+            for j  in range(cols):
+                if not mat[i][j]:
+                    q.append((i,j))
+                    ans[i][j] = 0
+        level = 1
         while q:
-            row, col = q.popleft()
-
-            for i in range(4):
-                nrow = row + delRow[i]
-                ncol = col + delCol[i]
-
-                # Check bounds and if unvisited
-                if 0 <= nrow < n and 0 <= ncol < m and dis[nrow][ncol] == -1:
-                    dis[nrow][ncol] = dis[row][col] + 1  # Update distance
-                    q.append((nrow, ncol))  # Add to the queue
-
-        return dis  # Return the distance matrix
+            for _ in range(len(q)):
+                i , j = q.popleft()
+                for dx , dy in directions_straight:
+                    x , y = i+dx , j + dy
+                    if is_inbound(x,y) and ans[x][y]==-1:
+                        ans[x][y]=level
+                        q.append((x,y))
+            level +=1
+        return ans
+            
