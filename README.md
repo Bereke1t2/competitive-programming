@@ -86,6 +86,7 @@
 | [1080-camelcase-matching](https://github.com/Bereke1t2/competitive-programming/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
@@ -615,6 +616,7 @@
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/Bereke1t2/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [1876-map-of-highest-peak](https://github.com/Bereke1t2/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -873,6 +875,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Bereke1t2/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
