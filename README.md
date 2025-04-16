@@ -844,6 +844,7 @@
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bereke1t2/competitive-programming/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/Bereke1t2/competitive-programming/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -872,6 +873,7 @@
 | [0690-employee-importance](https://github.com/Bereke1t2/competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bereke1t2/competitive-programming/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/Bereke1t2/competitive-programming/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Bereke1t2/competitive-programming/tree/master/1036-rotting-oranges) |
@@ -915,6 +917,7 @@
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bereke1t2/competitive-programming/tree/master/0684-redundant-connection) |
+| [0871-keys-and-rooms](https://github.com/Bereke1t2/competitive-programming/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
