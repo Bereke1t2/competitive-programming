@@ -547,6 +547,7 @@
 | [0093-restore-ip-addresses](https://github.com/Bereke1t2/competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereke1t2/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
@@ -766,6 +767,7 @@
 | [0079-word-search](https://github.com/Bereke1t2/competitive-programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Bereke1t2/competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
@@ -892,6 +894,7 @@
 | [0112-path-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
