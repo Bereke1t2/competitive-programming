@@ -833,6 +833,7 @@
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereke1t2/competitive-programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -868,6 +869,7 @@
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereke1t2/competitive-programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -904,6 +906,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereke1t2/competitive-programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/Bereke1t2/competitive-programming/tree/master/1876-map-of-highest-peak) |
@@ -933,6 +936,7 @@
 | [1005-univalued-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereke1t2/competitive-programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
