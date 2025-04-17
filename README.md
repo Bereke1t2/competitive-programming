@@ -958,6 +958,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
