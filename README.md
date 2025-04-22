@@ -138,6 +138,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Bereke1t2/competitive-programming/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bereke1t2/competitive-programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bereke1t2/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -474,6 +475,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/Bereke1t2/competitive-programming/tree/master/2249-count-the-hidden-sequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2342-minimum-average-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/2342-minimum-average-difference) |
