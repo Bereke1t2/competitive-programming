@@ -900,6 +900,7 @@
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -939,6 +940,7 @@
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bereke1t2/competitive-programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -987,6 +989,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3189-find-champion-ii) |
@@ -1048,6 +1051,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
