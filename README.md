@@ -26,6 +26,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereke1t2/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0274-h-index) |
@@ -368,6 +369,7 @@
 | [0016-3sum-closest](https://github.com/Bereke1t2/competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bereke1t2/competitive-programming/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Bereke1t2/competitive-programming/tree/master/0368-largest-divisible-subset) |
@@ -500,6 +502,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
@@ -508,6 +511,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
@@ -1112,4 +1116,8 @@
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
