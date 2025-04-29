@@ -168,6 +168,7 @@
 | [2690-house-robber-iv](https://github.com/Bereke1t2/competitive-programming/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bereke1t2/competitive-programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Bereke1t2/competitive-programming/tree/master/2737-row-with-maximum-ones) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bereke1t2/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -456,6 +457,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
@@ -513,6 +515,7 @@
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/Bereke1t2/competitive-programming/tree/master/2681-put-marbles-in-bags) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
@@ -694,6 +697,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1028,6 +1032,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -1042,6 +1047,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 ## Number Theory
 |  |
 | ------- |
