@@ -90,6 +90,7 @@
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1117-as-far-from-land-as-possible](https://github.com/Bereke1t2/competitive-programming/tree/master/1117-as-far-from-land-as-possible) |
+| [1127-last-stone-weight](https://github.com/Bereke1t2/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
@@ -517,6 +518,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Bereke1t2/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
