@@ -80,6 +80,7 @@
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bereke1t2/competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Bereke1t2/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/Bereke1t2/competitive-programming/tree/master/1028-interval-list-intersections) |
@@ -225,6 +226,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Bereke1t2/competitive-programming/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bereke1t2/competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bereke1t2/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Bereke1t2/competitive-programming/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bereke1t2/competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -384,6 +386,7 @@
 | [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bereke1t2/competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Bereke1t2/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
@@ -507,6 +510,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bereke1t2/competitive-programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -518,6 +522,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Bereke1t2/competitive-programming/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
@@ -1121,9 +1126,11 @@
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Bereke1t2/competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
