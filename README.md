@@ -140,6 +140,7 @@
 | [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -362,6 +363,7 @@
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bereke1t2/competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -409,6 +411,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -437,6 +440,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bereke1t2/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bereke1t2/competitive-programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1066,6 +1070,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Bereke1t2/competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Bereke1t2/competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
@@ -1083,6 +1088,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Bereke1t2/competitive-programming/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 ## Number Theory
