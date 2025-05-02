@@ -155,6 +155,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Bereke1t2/competitive-programming/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Bereke1t2/competitive-programming/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/2342-minimum-average-difference) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereke1t2/competitive-programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -642,6 +643,7 @@
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bereke1t2/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -913,6 +915,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -956,6 +959,7 @@
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Bereke1t2/competitive-programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -1046,6 +1050,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -1113,6 +1118,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
