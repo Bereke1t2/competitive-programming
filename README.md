@@ -38,6 +38,7 @@
 | [0368-largest-divisible-subset](https://github.com/Bereke1t2/competitive-programming/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -612,6 +613,7 @@
 | [0306-additive-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereke1t2/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereke1t2/competitive-programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereke1t2/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bereke1t2/competitive-programming/tree/master/0500-keyboard-row) |
@@ -932,6 +934,7 @@
 | [0210-course-schedule-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/0606-construct-string-from-binary-tree) |
@@ -975,6 +978,7 @@
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Bereke1t2/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -1038,6 +1042,7 @@
 | [0133-clone-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bereke1t2/competitive-programming/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -1138,6 +1143,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bereke1t2/competitive-programming/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bereke1t2/competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bereke1t2/competitive-programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
@@ -1148,6 +1154,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Indexed Tree
