@@ -624,6 +624,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Bereke1t2/competitive-programming/tree/master/0692-top-k-frequent-words) |
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
+| [0868-push-dominoes](https://github.com/Bereke1t2/competitive-programming/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/Bereke1t2/competitive-programming/tree/master/1023-time-based-key-value-store) |
@@ -725,6 +726,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/Bereke1t2/competitive-programming/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Bereke1t2/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Bereke1t2/competitive-programming/tree/master/1009-pancake-sorting) |
@@ -809,6 +811,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/0542-01-matrix) |
+| [0868-push-dominoes](https://github.com/Bereke1t2/competitive-programming/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bereke1t2/competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
