@@ -99,6 +99,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bereke1t2/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -301,6 +302,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -587,6 +589,7 @@
 | [0829-subdomain-visit-count](https://github.com/Bereke1t2/competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Bereke1t2/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/Bereke1t2/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereke1t2/competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
