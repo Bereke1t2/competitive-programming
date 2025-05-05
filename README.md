@@ -821,6 +821,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Bereke1t2/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/0542-01-matrix) |
+| [0806-domino-and-tromino-tiling](https://github.com/Bereke1t2/competitive-programming/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Bereke1t2/competitive-programming/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bereke1t2/competitive-programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bereke1t2/competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
