@@ -1,43 +1,59 @@
 class DSU:
-    def __init__(self, size):  
-        self.parent = list(range(size))
-        self.size = [1] * size
+    def __init__(self):  
+        self.parent = dict()
+        self.row = dict()
+        self.col = dict()
+        self.size = defaultdict(lambda : 1)
 
     def find(self, x):
+        if x not in self.parent:
+            self.parent[x] = x
+            self.size[x] = 1
+            return x
         if self.parent[x] != x:
             self.parent[x] = self.find(self.parent[x])  # Path compression
         return self.parent[x]
 
     def union(self, x, y):
-        root_x = self.find(x)
-        root_y = self.find(y)
-        if root_x != root_y:
-            if self.size[root_x] < self.size[root_y]:
-                self.parent[root_x] = root_y
-                self.size[root_y] += self.size[root_x]
+        if x in self.row:
+            r_x = self.row[x]
+            par = self.find(r_x)
+            self.parent[(x,y)] = par
+            self.size[par] +=1
+        else:
+            self.find((x,y))
+            self.row[x] = tuple([x,y])
+        if y in self.col:
+            if (x,y) in self.parent:
+                r_x = self.find((x,y))
+                r_y = self.find(self.col[y])
+                if r_x != r_y:
+                    if self.size[r_x]>self.size[r_y]:
+                        self.size[r_x] +=self.size[r_y]
+                        self.parent[r_y] = self.parent[r_x]
+                    else:
+                        self.size[r_y] +=self.size[r_x]
+                        self.parent[r_x] = self.parent[r_y]
             else:
-                self.parent[root_y] = root_x
-                self.size[root_x] += self.size[root_y]
-        return root_x == root_y
+                r_x = self.col[y]
+                par = self.find(r_x)
+                self.parent[(x,y)] = par
+                self.size[par] +=1
+        else:
+            self.find((x,y))
+            self.col[y] = tuple([x,y])
+
 
 
 class Solution:
     def removeStones(self, stones: List[List[int]]) -> int:
-        id = defaultdict(int)
-        num = 1
-        for point in stones:
-            id[tuple(point)] = num
-            num +=1
-        
-        uni = DSU(num)
-        for i in range(len(stones)):
-            for j in range(i+1 ,len(stones) ):
-                if stones[i][1]==stones[j][1] or stones[i][0]==stones[j][0]:
-                    uni.union(id[tuple(stones[i])] , id[tuple(stones[j])])
-        count = 0
-        for i in range(1,num):
-            if uni.parent[i]==i:
-                count +=(uni.size[i]-1)
-        return count
-
-
+        dsu = DSU()
+        for x, y in stones:    
+            dsu.union(x,y)
+        for x, y in stones:
+            dsu.find((x,y))
+        _sum = 0
+        for key, val in dsu.parent.items():
+            if key == val:
+                _sum += dsu.size[key] - 1
+        return _sum
