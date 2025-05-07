@@ -162,6 +162,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/Bereke1t2/competitive-programming/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/Bereke1t2/competitive-programming/tree/master/2342-minimum-average-difference) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereke1t2/competitive-programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -565,6 +566,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Bereke1t2/competitive-programming/tree/master/1962-single-threaded-cpu) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Bereke1t2/competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereke1t2/competitive-programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -722,6 +724,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bereke1t2/competitive-programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/Bereke1t2/competitive-programming/tree/master/2737-row-with-maximum-ones) |
@@ -1029,6 +1032,7 @@
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bereke1t2/competitive-programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -1083,6 +1087,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -1187,6 +1192,7 @@
 | [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bereke1t2/competitive-programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Indexed Tree
 |  |
