@@ -196,6 +196,7 @@
 | [3430-count-days-without-meetings](https://github.com/Bereke1t2/competitive-programming/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3483-alternating-groups-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereke1t2/competitive-programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bereke1t2/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -570,6 +571,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Bereke1t2/competitive-programming/tree/master/2681-put-marbles-in-bags) |
 | [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -724,6 +726,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/Bereke1t2/competitive-programming/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1084,6 +1088,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1182,6 +1187,7 @@
 | [0399-evaluate-division](https://github.com/Bereke1t2/competitive-programming/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Bereke1t2/competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
