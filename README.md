@@ -853,6 +853,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Bereke1t2/competitive-programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Bereke1t2/competitive-programming/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Line Sweep
 |  |
