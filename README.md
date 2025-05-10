@@ -112,6 +112,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bereke1t2/competitive-programming/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereke1t2/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereke1t2/competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/Bereke1t2/competitive-programming/tree/master/1582-design-browser-history) |
@@ -724,6 +725,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bereke1t2/competitive-programming/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1242-matrix-block-sum) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Bereke1t2/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereke1t2/competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -994,6 +996,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1484-linked-list-in-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
@@ -1037,6 +1040,7 @@
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereke1t2/competitive-programming/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Bereke1t2/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
@@ -1193,6 +1197,7 @@
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bereke1t2/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1073-number-of-enclaves) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
