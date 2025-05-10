@@ -189,6 +189,7 @@
 | [2868-continuous-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bereke1t2/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Bereke1t2/competitive-programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bereke1t2/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -391,6 +392,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Bereke1t2/competitive-programming/tree/master/2681-put-marbles-in-bags) |
 | [3055-maximum-odd-binary-number](https://github.com/Bereke1t2/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/Bereke1t2/competitive-programming/tree/master/3151-minimum-processing-time) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Bereke1t2/competitive-programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
