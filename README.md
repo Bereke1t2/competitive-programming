@@ -1110,6 +1110,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Bereke1t2/competitive-programming/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereke1t2/competitive-programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/Bereke1t2/competitive-programming/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1216,6 +1217,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/Bereke1t2/competitive-programming/tree/master/1308-smallest-string-with-swaps) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Bereke1t2/competitive-programming/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereke1t2/competitive-programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
