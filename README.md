@@ -128,6 +128,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bereke1t2/competitive-programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -429,6 +430,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Bereke1t2/competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Bereke1t2/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Bereke1t2/competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Bereke1t2/competitive-programming/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Bereke1t2/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Bereke1t2/competitive-programming/tree/master/1962-single-threaded-cpu) |
@@ -766,6 +768,7 @@
 | [1028-interval-list-intersections](https://github.com/Bereke1t2/competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/Bereke1t2/competitive-programming/tree/master/1080-camelcase-matching) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Bereke1t2/competitive-programming/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Bereke1t2/competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bereke1t2/competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bereke1t2/competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1099,6 +1102,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bereke1t2/competitive-programming/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Bereke1t2/competitive-programming/tree/master/1738-maximal-network-rank) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1202,6 +1206,7 @@
 | [1073-number-of-enclaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Bereke1t2/competitive-programming/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/Bereke1t2/competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
