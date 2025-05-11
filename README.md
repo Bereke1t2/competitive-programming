@@ -654,6 +654,7 @@
 | [0886-score-of-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/Bereke1t2/competitive-programming/tree/master/1023-time-based-key-value-store) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1080-camelcase-matching](https://github.com/Bereke1t2/competitive-programming/tree/master/1080-camelcase-matching) |
 | [1160-letter-tile-possibilities](https://github.com/Bereke1t2/competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Bereke1t2/competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -1196,6 +1197,7 @@
 | [0684-redundant-connection](https://github.com/Bereke1t2/competitive-programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bereke1t2/competitive-programming/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bereke1t2/competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Bereke1t2/competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Bereke1t2/competitive-programming/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bereke1t2/competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Bereke1t2/competitive-programming/tree/master/1753-path-with-minimum-effort) |
