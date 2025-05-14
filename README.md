@@ -215,6 +215,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bereke1t2/competitive-programming/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Bereke1t2/competitive-programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1184-car-pooling](https://github.com/Bereke1t2/competitive-programming/tree/master/1184-car-pooling) |
@@ -236,6 +237,7 @@
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bereke1t2/competitive-programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Bereke1t2/competitive-programming/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bereke1t2/competitive-programming/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereke1t2/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Bereke1t2/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
@@ -639,6 +641,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bereke1t2/competitive-programming/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Bereke1t2/competitive-programming/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bereke1t2/competitive-programming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Bereke1t2/competitive-programming/tree/master/0079-word-search) |
@@ -797,6 +800,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bereke1t2/competitive-programming/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereke1t2/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
