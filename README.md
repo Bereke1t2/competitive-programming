@@ -339,6 +339,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -546,6 +547,7 @@
 | [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2102-find-the-middle-index-in-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/Bereke1t2/competitive-programming/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Bereke1t2/competitive-programming/tree/master/2249-count-the-hidden-sequences) |
@@ -689,6 +691,7 @@
 | [1970-sorting-the-sentence](https://github.com/Bereke1t2/competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereke1t2/competitive-programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bereke1t2/competitive-programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -817,6 +820,7 @@
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bereke1t2/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bereke1t2/competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
