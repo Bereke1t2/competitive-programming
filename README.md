@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Bereke1t2/competitive-programming/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bereke1t2/competitive-programming/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Bereke1t2/competitive-programming/tree/master/0283-move-zeroes) |
@@ -807,6 +808,7 @@
 | [0067-add-binary](https://github.com/Bereke1t2/competitive-programming/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Bereke1t2/competitive-programming/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Bereke1t2/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereke1t2/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
