@@ -178,6 +178,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bereke1t2/competitive-programming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bereke1t2/competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Bereke1t2/competitive-programming/tree/master/2502-sort-the-people) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Bereke1t2/competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bereke1t2/competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -518,6 +519,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Bereke1t2/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bereke1t2/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bereke1t2/competitive-programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -826,6 +828,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bereke1t2/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
+| [2478-longest-nice-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bereke1t2/competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
