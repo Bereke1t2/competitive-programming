@@ -188,6 +188,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Bereke1t2/competitive-programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bereke1t2/competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereke1t2/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2621-find-xor-beauty-of-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Bereke1t2/competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bereke1t2/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
@@ -274,6 +275,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bereke1t2/competitive-programming/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bereke1t2/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
+| [2621-find-xor-beauty-of-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bereke1t2/competitive-programming/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Bereke1t2/competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -825,6 +827,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bereke1t2/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bereke1t2/competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Bereke1t2/competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Bereke1t2/competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
