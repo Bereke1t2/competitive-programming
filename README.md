@@ -254,6 +254,7 @@
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Bereke1t2/competitive-programming/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereke1t2/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -826,6 +827,7 @@
 | [0268-missing-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereke1t2/competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Bereke1t2/competitive-programming/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Bereke1t2/competitive-programming/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Bereke1t2/competitive-programming/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0861-flipping-an-image) |
