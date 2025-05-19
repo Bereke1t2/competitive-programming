@@ -135,6 +135,7 @@
 | [1783-ways-to-make-a-fair-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1783-ways-to-make-a-fair-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bereke1t2/competitive-programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1839-decode-xored-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1876-map-of-highest-peak](https://github.com/Bereke1t2/competitive-programming/tree/master/1876-map-of-highest-peak) |
@@ -834,6 +835,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bereke1t2/competitive-programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bereke1t2/competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1839-decode-xored-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1839-decode-xored-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2478-longest-nice-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bereke1t2/competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
