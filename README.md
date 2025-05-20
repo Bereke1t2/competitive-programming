@@ -223,6 +223,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bereke1t2/competitive-programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bereke1t2/competitive-programming/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3795-zero-array-transformation-iv](https://github.com/Bereke1t2/competitive-programming/tree/master/3795-zero-array-transformation-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -917,6 +918,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bereke1t2/competitive-programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bereke1t2/competitive-programming/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3795-zero-array-transformation-iv](https://github.com/Bereke1t2/competitive-programming/tree/master/3795-zero-array-transformation-iv) |
 ## Line Sweep
 |  |
 | ------- |
