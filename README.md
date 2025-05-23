@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Bereke1t2/competitive-programming/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bereke1t2/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Bereke1t2/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Bereke1t2/competitive-programming/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Bereke1t2/competitive-programming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Bereke1t2/competitive-programming/tree/master/0048-rotate-image) |
@@ -935,6 +936,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bereke1t2/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bereke1t2/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bereke1t2/competitive-programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Bereke1t2/competitive-programming/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0052-n-queens-ii) |
