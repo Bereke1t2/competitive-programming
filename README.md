@@ -355,6 +355,7 @@
 | [1905-design-authentication-manager](https://github.com/Bereke1t2/competitive-programming/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereke1t2/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2044-number-of-wonderful-substrings](https://github.com/Bereke1t2/competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Bereke1t2/competitive-programming/tree/master/2107-find-unique-binary-string) |
@@ -661,6 +662,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereke1t2/competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bereke1t2/competitive-programming/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Bereke1t2/competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereke1t2/competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Bereke1t2/competitive-programming/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bereke1t2/competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -918,6 +920,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bereke1t2/competitive-programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bereke1t2/competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bereke1t2/competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bereke1t2/competitive-programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Bereke1t2/competitive-programming/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -1175,6 +1178,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Bereke1t2/competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Bereke1t2/competitive-programming/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Bereke1t2/competitive-programming/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Bereke1t2/competitive-programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1248,6 +1252,7 @@
 | [0207-course-schedule](https://github.com/Bereke1t2/competitive-programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bereke1t2/competitive-programming/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bereke1t2/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bereke1t2/competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Bereke1t2/competitive-programming/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1327,4 +1332,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Bereke1t2/competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Bereke1t2/competitive-programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
